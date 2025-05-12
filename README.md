@@ -4,7 +4,7 @@
 It’s designed for personal offline use — no ads, no internet, no trackers. Just clean, fast, and secure authentication protected by biometrics or PIN.
 
 <div align="center">
-  <a href="raw/refs/heads/master/app/release/app-release.apk">
+  <a href="https://github.com/Qurbonsaid/pc-authenticator/raw/refs/heads/master/app/release/app-release.apk">
     <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" alt="Download APK">
   </a>
 </div>
